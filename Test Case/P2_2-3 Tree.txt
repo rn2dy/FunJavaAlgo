@@ -1,0 +1,15 @@
+insert 2;
+insert 4;
+insert 15;
+insert 12;
+insert 10;
+insert 16;
+insert 8;
+delete 15;
+search 12;
+succ 10;
+succ 8;
+succ 4;
+min;
+sort;
+output;
