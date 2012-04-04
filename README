@@ -9,6 +9,9 @@ The program is very easy to compile :-)
 
     Or (use the following to see the type safe information, you might want to help me to fix it.)
     $ javac -Xlint:unchecked *.java
+	
+	Then just:
+    $ java WelcomeShell
 
 Features: 
 	It calculates the shortest path, and it constructs 2/3 tree.
@@ -17,4 +20,4 @@ Features:
       - choose different algorithms when compute shortest path
     * It is easy to scale to different format of input, currently it only support.
 
-By BaboonWorksFine (Qiang Han)
+By BaboonWorksFine (Qiang Han), 2009/Fall
